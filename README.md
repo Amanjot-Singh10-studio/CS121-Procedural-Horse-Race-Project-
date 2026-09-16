@@ -1,5 +1,6 @@
 # CS121-Procedural-Horse-Race-Project-
 ## Algorithm
+
 ```
 main() 
     - array for 5 horses and each horse start from 0 
@@ -16,21 +17,21 @@ main()
             if KeepGoing true 
                 user press enter for another turn 
                 press enter to continue 
-``` 
+ 
 advance () 
     -  horse number and the horses array 
     -  coin a random value 0 or 1 
     -  if coin is 1 
         move that horse forward one position  
-```
+
 printLane() 
     - get horse number and the array
     - go through 15 position 
         if current position match the horse position 
             print horse number 
         if not 
-            print (.) 
-``` 
+            print (.)
+ 
 isWinner() 
     - won to false 
     - get the horse number and the horse array 
