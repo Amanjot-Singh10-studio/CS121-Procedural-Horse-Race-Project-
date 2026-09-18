@@ -34,8 +34,7 @@ printLane()
  
 isWinner() 
     - won to false 
-    - get the horse number and the horse array 
-    
+    - get the horse number and the horse array     
     - if the horse postion reach 15 
             won to true
             print which horse won 
