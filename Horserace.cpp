@@ -49,7 +49,7 @@ bool isWinner(int horseNum, int* horses) {
 	bool won = false; 
 	if (horses[horseNum] == 15) {
 		won = true; 
-		std::cout << "Horse " << horseNum << " WIN'S!" << std::endl; 
+		std::cout << "Horse " << horseNum << " WIN's!" << std::endl; 
 	}
 	return won; 
 }
