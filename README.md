@@ -33,7 +33,7 @@ printLane()
             print (.)
  
 isWinner() 
-    - won to false 
+    - won = false 
     - get the horse number and the horse array     
     - if the horse postion reach 15 
             won to true
